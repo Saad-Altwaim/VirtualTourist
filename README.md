@@ -1,7 +1,11 @@
 # VirtualTourist
 this IOS App use 
+
 - Flickr API
 - Coredata framework 
+- MapKit
+- create a class using (NSCache) To save the Device Resources by load image from cache
+- use background Context to save the Iamge  in Coredata 
 
 this app downloads Image from Flickr API And use Coredata to stores images in the local DataBase . 
 
